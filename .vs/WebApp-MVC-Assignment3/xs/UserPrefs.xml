@@ -1,4 +1,20 @@
 ﻿<Properties StartupConfiguration="{14097D24-EE48-42F1-8865-0FD5A9B93521}|https">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp-MVC-Assignment3" selected="True">
+            <Node name="WebApp-MVC-Assignment3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WebApp-MVC-Assignment3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WebApp-MVC-Assignment3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
